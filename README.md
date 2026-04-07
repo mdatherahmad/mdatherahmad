@@ -5,9 +5,6 @@
 
 ###
 ![Zulip Contributor](https://shields.io)
-<p align="center">
-  <img src="https://vercel.app" />
-</p>
 
 
 ###
