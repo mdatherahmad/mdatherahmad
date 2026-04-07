@@ -4,7 +4,9 @@
 </div>
 
 ###
+![Zulip Contributor](https://shields.io)
 
+###
 <br clear="both">
 
 <h1 align="center">Hey there 👋</h1>
