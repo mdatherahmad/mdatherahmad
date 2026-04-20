@@ -5,7 +5,7 @@
 
 ###
 ![Zulip Contributor](https://shields.io)
-)
+
 
 
 ###
