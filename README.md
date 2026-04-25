@@ -28,7 +28,7 @@
       Hey there! I'm Ather Ahmad, from India.<br><br>
       - 🔭 UG Student <br>
       - 💻 Web Development Enthusiast<br>
-      - ⚡ Exploring the World of Anime
+      - ⚡ Blending the art of editing.
     </p>
   </div>
   
